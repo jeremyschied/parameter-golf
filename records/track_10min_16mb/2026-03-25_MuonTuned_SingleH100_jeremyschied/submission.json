@@ -1,0 +1,9 @@
+{
+  "name": "Muon Optimizer Tuning on Single H100",
+  "val_bpb": 1.3346,
+  "bytes_total": 14436546,
+  "blurb": "Muon optimizer tuning on baseline NanoGPT: MATRIX_LR=0.05, MUON_BACKEND_STEPS=6, MUON_MOMENTUM_WARMUP_STEPS=300, GRAD_CLIP_NORM=1.0, WARMDOWN_ITERS=900. Single H100 SXM 80GB, PyTorch 2.5.1. First submission — establishing baseline with Muon tuning as foundation for further improvements.",
+  "author": "jeremyschied",
+  "github_id": "jeremyschied",
+  "date": "2026-03-25"
+}
